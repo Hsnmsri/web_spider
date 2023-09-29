@@ -1,0 +1,14 @@
+C:\Users\Hossein Mansouri\Desktop\WebSpider\bin\Debug\net7.0\WebSpider.exe
+C:\Users\Hossein Mansouri\Desktop\WebSpider\bin\Debug\net7.0\WebSpider.deps.json
+C:\Users\Hossein Mansouri\Desktop\WebSpider\bin\Debug\net7.0\WebSpider.runtimeconfig.json
+C:\Users\Hossein Mansouri\Desktop\WebSpider\bin\Debug\net7.0\WebSpider.dll
+C:\Users\Hossein Mansouri\Desktop\WebSpider\bin\Debug\net7.0\WebSpider.pdb
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\WebSpider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\WebSpider.AssemblyInfoInputs.cache
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\WebSpider.AssemblyInfo.cs
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\WebSpider.csproj.CoreCompileInputs.cache
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\WebSpider.dll
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\refint\WebSpider.dll
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\WebSpider.pdb
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\WebSpider.genruntimeconfig.cache
+C:\Users\Hossein Mansouri\Desktop\WebSpider\obj\Debug\net7.0\ref\WebSpider.dll
